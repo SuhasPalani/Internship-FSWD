@@ -1,4 +1,4 @@
-import py_compile
+#import py_compile
 from django.contrib import admin
 from django.urls import path
 from .views.home import Index , store
